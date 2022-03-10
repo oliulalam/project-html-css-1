@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background-image: url("3.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100ch;
+}
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: rgba(221, 15, 15, 0.952);
+    font-size: 35px;
+    font-family: arial;
+    padding-left: 42px;
+    float: left;
+    padding-top: 33px;
+}
